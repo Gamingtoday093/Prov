@@ -93,3 +93,8 @@ background-attachment: scroll;
 	margin-top: 0px;
 	font-size: 110%;
 }
+
+.text iframe {
+	border: none;
+		left: 40%;
+}
